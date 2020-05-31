@@ -3,3 +3,24 @@
     margin: 0 auto;
     text-align: center;
 }
+
+.albumPics {
+    margin: 10px;
+}
+
+.albumPics img:hover {
+    transform: scale(1.2);
+}
+
+.albumPics img {
+    margin: 0 2px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: "Comic Sans MS";
+}
+
+select {
+    font-family: "Comic Sans MS";
+}
